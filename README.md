@@ -1,5 +1,5 @@
 
-# Hey there, I'm Adarsh 👋
+# Hey there, I'm T.U.Adarsh 👋
 
 🎓 I'm a B.Tech student at IIIT Kottayam, specializing in **Cybersecurity**  
 📚 Currently in 4th semester and always eager to learn more in this field.  
