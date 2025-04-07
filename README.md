@@ -1,26 +1,36 @@
-
-# Hey there, I'm T.U.Adarsh 👋
+# Hey there, I'm Adarsh 👋
 
 🎓 I'm a B.Tech student at IIIT Kottayam, specializing in **Cybersecurity**  
-📚 Currently in 4th semester and always eager to learn more in this field.  
+📚 Currently in 4th semester and actively building skills in **web development** and **cybersecurity**  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🛡️ Learning ethical hacking and cybersecurity tools  
-- 💻 Comfortable with **C, C++**, and exploring Linux (Kali)  
-- 📺 Currently doing **Zaid Sabih’s Ethical Hacking** course  
-- 🧠 Completed ITF+ YouTube course by Technical Institute of America  
-- 💥 Ready to work hard and grow in this field — no shortcuts.
+- 🛡️ Exploring the field of **Cybersecurity** – covering network security, system hardening, and basic penetration testing  
+- 💻 Comfortable with **C, C++**, and working in **Linux (Kali)** environments  
+- 🌐 Web Developer: proficient in **HTML, CSS, JavaScript** and learning **React**  
+- 🧪 Currently diving into backend development with **Node.js, Express, EJS**  
+- 🧠 Completed ITF+ foundational course in Cybersecurity  
+- 🔍 Building a **Lost-and-Found web app** as part of my full-stack learning journey  
+- 🧠 Confident with writing queries and managing databases using **SQL**
 
 ---
 
-## 🔧 Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- 💻 Kali Linux (Basic commands)
-- 🧠 C, C++
-- 📡 Starting with Nmap, Metasploit, Wireshark (soon...)
+- 💻 Kali Linux, VS Code, Git, GitHub  
+- 🧠 C, C++, JavaScript, **SQL**  
+- 🌐 HTML, CSS, React (Frontend), Node.js, Express.js (Backend)  
+- 🧰 MongoDB (learning), EJS, REST APIs  
+
+---
+
+## 🚀 Current Focus
+
+- 🚧 Learning React deeply (frontend projects ongoing)  
+- 🔐 Practicing core cybersecurity tools and techniques  
+- 🌐 Building portfolio with real projects  
 
 ---
 
@@ -28,18 +38,4 @@
 
 - ✉️ tuadarsh2005@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/t-u-adarsh-835978308)  
-
-<!--
-**ADARSH-TALANKI/ADARSH-TALANKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐙 [GitHub](https://github.com/ADARSH-TALANKI)
