@@ -1,7 +1,7 @@
 # Hey there, I'm Adarsh 👋
 
 🎓 I'm a B.Tech student at IIIT Kottayam, specializing in **Cybersecurity**  
-📚 Currently in 4th semester and actively building skills in **web development** and **cybersecurity**  
+📚 Currently in 6th semester and actively building skills in **web development** and **cybersecurity** and **ML**
 
 ---
 
